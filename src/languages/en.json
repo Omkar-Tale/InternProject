@@ -38,5 +38,38 @@
         "heading": "Our Services",
         "paragraph": "We provide powerful and scalable HR solutions for modern businesses."
     }
+  ],
+  "trusted_brand": [
+    {
+        "brand_heading": "Trusted by Leading Brands",
+        "brand_para": "Join thousands of organizations worldwide that trust HrWebsite for their HR management needs."
+    }
+  ],
+  "useCases_head": {
+    "heading": "Where This Software is Used",
+    "paragraph": "HrWebsite serves diverse industries and organizations, adapting to unique HR challenges across various sectors."
+  },
+  "useCases": [
+    {
+      "image": "bus.png",
+      "title": "Large Enterprises",
+      "description": "Manage thousands of employees across multiple locations with advanced compliance, reporting, and automation features."
+    },
+    {
+      "image": "whiter.png",
+      "title": "Growing Startups",
+      "description": "Scale your HR operations efficiently from day one with cost-effective solutions that grow with your team."
+    },
+    {
+      "image": "people.png",
+      "title": "Remote Teams",
+      "description": "Seamlessly manage distributed workforces with cloud-based tools designed for remote collaboration and engagement."
+    },
+    {
+      "image": "hand.png",
+      "title": "Consulting Firms",
+      "description": "Streamline project-based workforce management with flexible scheduling, time tracking, and client billing integration."
+    }
   ]
+
 }
