@@ -9,7 +9,7 @@ const Home = () => {
         <TrustedBrands />
         <div className="h-[1px] bg-white"></div>
         <Services />
-        <UseCases />
+        {/* <UseCases /> */}
     </div>
   )
 }

@@ -1,0 +1,42 @@
+
+{
+  "services": [
+    
+    {
+      "image":"rocket.png",
+      "title": "Easy Implementation",
+      "description": "Get up and running in days, not months. Our streamlined onboarding process and intuitive interface ensure quick adoption across your organization."
+    },
+    {
+      "image":"shield.png",
+      "title": "Enterprise Security",
+      "description": "Bank-level security with end-to-end encryption, multi-factor authentication, and compliance with global data protection standards."
+    },
+    {
+      "image":"trade.png",
+      "title": "Advanced Analytics",
+      "description": "Make informed decisions with real-time insights, predictive analytics, and customizable dashboards that reveal workforce trends."
+    },
+    {
+      "image":"puzzle.png",
+      "title": "Seamless Integrations",
+      "description": "Connect with 500+ popular business tools including Slack, Microsoft Teams, QuickBooks, and more for unified workflows."
+    },
+    {
+      "image":"call.png",
+      "title": "24/7 Expert Support",
+      "description": "Access dedicated support specialists anytime with live chat, phone support, and comprehensive documentation library."
+    },
+    {
+      "image":"symbol.png",
+      "title": "Scalable Solution",
+      "description": "Grow from startup to enterprise with flexible pricing plans and features that scale with your organization's needs."
+    }
+  ],
+  "services_head": [
+    {
+        "heading": "Our Services",
+        "paragraph": "We provide powerful and scalable HR solutions for modern businesses."
+    }
+  ]
+}
